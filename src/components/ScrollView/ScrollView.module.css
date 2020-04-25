@@ -1,0 +1,7 @@
+.scrollview{
+    overflow-y: auto;
+}
+
+.scrollview::-webkit-scrollbar{
+    width: 1rem;
+}
